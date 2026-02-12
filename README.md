@@ -29,7 +29,8 @@ The script `Figure2_Spatial_Simulation.R` performs the following computational t
 ## 📊 Visualization Output
 
 **Figure 2: Spatial Expression Heatmap**
-![Spatial Heatmap](figures/Figure2_Spatial_Heatmap.png)
+<img width="862" height="512" alt="Rplot flavanoid" src="https://github.com/user-attachments/assets/9e6ed8c3-4496-47ac-b4cd-733b642545d7" />
+
 *Hierarchical clustering of simulated expression profiles showing distinct metabolic signatures in trichomes compared to mesophyll tissue. High expression of early biosynthetic genes (CHS, CHI) is modeled in the trichome fraction.*
 
 ## 💻 Usage
